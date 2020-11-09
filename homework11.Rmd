@@ -1,0 +1,28 @@
+---
+title: "Homework 10"
+output: html_document
+author: "Your Name"
+---
+
+
+## Data
+
+Read the case study on vaping: 
+  - https://www.opencasestudies.org/ocs-bp-vaping-case-study/#Data_Analysis
+  
+## Create simulated data
+
+Take the data from the case study on comparing cigarrette usage between males and females: https://www.opencasestudies.org/ocs-bp-vaping-case-study/#Data_Analysis. 
+Use these data as a basis for creating a small simulation study where you know the "right" answer. Compare using plain logistic regression and weighted
+logistic regression on these simulated data. 
+
+## Write a simulation section
+
+Write a simulation section describing what you did to compare the two methods. 
+
+- State the objectives – Why do this simulation? What specific questions are you trying to answer?
+- State the rationale for choice of factors studied, assumptions made
+- Review all methods under study – be precise and detailed
+- Describe exactly how you generated data for each choice of factors – enough detail should be given so that a reader could write his/her own program to reproduce your results!
+
+When preparing tables and figures for this section, make sure they are publication quality!
